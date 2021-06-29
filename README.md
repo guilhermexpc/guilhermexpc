@@ -3,8 +3,8 @@
 
 ## :robot: &nbsp; Sobre mim 
 - :computer: Desenvolvedor Mobile
-- :video_game: Desenvolvedor Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
-- :briefcase: Residente Técnico na  Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
+- :video_game: Desenvolvedor de Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
+- :briefcase: Residente Técnico na Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
 - :books: Cursando Pós graduação em **WebDev** na <a href="https://webdev.alfaumuarama.edu.br/"> UniAlfa</a>
 
 ## :white_check_mark: &nbsp;Skills
