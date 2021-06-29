@@ -26,9 +26,10 @@
 [![Steam](https://img.shields.io/badge/-Steam%20Dev-373737?style=flat&logo=steam&labelColor=373737&color=026F9A)](https://store.steampowered.com/curator/36621295)
 ***
 ## :earth_americas: Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Linkedin](https://img.shields.io/badge/<GuilhermeXPC>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GuilhermeXPC)
-[![Linkedin](https://img.shields.io/badge/Revox%20Games-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/36621295)
+
+>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) &nbsp;
+[![Linkedin](https://img.shields.io/badge/<GuilhermeXPC>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GuilhermeXPC) &nbsp;
+[![Linkedin](https://img.shields.io/badge/Revox%20Games-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/curator/36621295) &nbsp;
 [![Linkedin](https://img.shields.io/badge/<Revox%20Games>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/RevoxGames)
 
 ## :trophy: Conquistas :trophy:
