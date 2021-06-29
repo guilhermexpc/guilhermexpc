@@ -1,4 +1,4 @@
-## Hi I'm Guilherme Pereira Campos :space_invader:
+## Hi, I'm Guilherme Pereira Campos :space_invader:
 ![](https://komarev.com/ghpvc/?username=guilhermexpc&color=006bed)
 
 ## :robot: &nbsp; Sobre mim 
