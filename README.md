@@ -4,9 +4,8 @@
 ## :robot: &nbsp; Sobre mim 
 - :computer: Desenvolvedor Mobile
 - :video_game: Desenvolvedor de Jogos e criador da <a href="https://store.steampowered.com/curator/36621295">Revox Games</a>
-- :briefcase: Residente Técnico na Universidade Estadual de Ponta Grossa <a href="https://www.uepg.br/">UEPG</a> 
-- :books: Cursando pós graduação **WebDev** na <a href="https://webdev.alfaumuarama.edu.br/"> UniAlfa</a>
-
+- :briefcase: Desenvolvedor web/mobile na  <a href="http://www.maxiconsistemas.com.br/">Maxicon Sistemas</a> 
+- :books: Link <a href="https://www.linkedin.com/in/guillherme-campos-168513122/">Guilherme Campos</a>  
 ## :white_check_mark: &nbsp;Skills
 
 >![C#](https://img.shields.io/badge/-CSharp-373737?style=flat&logo=csharp&labelColor=373737&color=026F9A)
