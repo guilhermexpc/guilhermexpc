@@ -38,7 +38,7 @@
 ## :trophy: Conquistas :trophy:
 ### 🎮 Jogos Lançados
 #### **Shmup Arena**: https://store.steampowered.com/app/1205540/Shmup_Arena/
-> Jogo desenvolvido de nave desafiador e frenético: Sobreviva a diversas horadas de inimigos e chefes poderosos <br/>
+> Jogo de nave desafiador e frenético: Sobreviva a diversas horadas de inimigos e chefes poderosos <br/>
 > Desenvolvido na Unity 3D, lançado na plataforma Steam
   
 &nbsp;
